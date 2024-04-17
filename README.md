@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saladi Lakshman</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="Coding" width="980" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+<h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saladilakshman&label=Profile%20views&color=0e75b6&style=flat" alt="saladilakshman" /> </p>
 
