@@ -2,9 +2,9 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <h3 align="center"> <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" /></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saladilakshman&label=Profile%20views&color=0e75b6&style=flat" alt="saladilakshman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saladilakshman" alt="saladilakshman" /></a> </p> 
+
+
 
 - 🔭 I’m currently working at **DXC Technology**
 - 🌱 I’m currently learning **Expressjs and Mongoose**
@@ -18,7 +18,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshman saladi" height="30" width="40" /></a>
 </p>
 
-**Languages:**  
+# 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -35,3 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saladilakshman&show_icons=true&theme=tokyonight&locale=en" alt="saladilakshman" /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saladilakshman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
