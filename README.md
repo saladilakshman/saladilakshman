@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saladi Lakshman</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
+<h3 align="center"> <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saladilakshman&label=Profile%20views&color=0e75b6&style=flat" alt="saladilakshman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saladilakshman" alt="saladilakshman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saladilakshman" alt="saladilakshman" /></a> </p> 
 
 - 🔭 I’m currently working at **DXC Technology**
-
 - 🌱 I’m currently learning **Expressjs and Mongoose**
-
 - 👯 I’m looking to collaborate on **JavaScript technology**
-
 - 💬 Ask me about **react, javascript**
-
 - 📫 How to reach me **lakshmansaladi123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
