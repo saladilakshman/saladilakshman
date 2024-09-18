@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Saladi Lakshman</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center"><strong>Frontend</strong> React developer from India</h3>
 <h3 align="center"> <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" /></h3>
 
 
